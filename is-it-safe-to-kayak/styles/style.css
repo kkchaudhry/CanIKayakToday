@@ -1,0 +1,64 @@
+html{
+    font-size: 20px;
+    font-family:'Cormorant Garamond', serif;
+    background-color:rgb(96, 131, 177);
+}
+
+body{
+    width: 600px;
+    padding: 20px 20px 20px 20px;
+    margin: 20px auto;
+    border: 5px solid rgb(125, 172, 125);
+    background-color:rgb(150, 130, 100);
+
+}
+
+
+ /*img[src = "images/pier-52-boat-launch.png"]{
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+}*/
+
+#launchImg{
+    display:block;
+    width:600px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+#directionsLink{
+    display:inline-block; 
+}
+
+#directionsP{
+    display: inline-block;
+}
+
+#div1{
+text-align: center;
+}
+
+
+h1{
+    font-size: 40px;
+    text-align:center;
+}
+
+.otherTimesLI{
+    font-size:30px;
+}
+
+li{
+    font-size:20px;
+}
+
+button{
+    display:block;
+    margin: 0 auto;
+}
+
+#weeklyForecastHeading{
+    font-size:20px;
+    text-align: center;
+}
